@@ -10,7 +10,8 @@ applications:
   # services:
   # - gourl-redis-service
   # - gourl-oauth
-  # define any configuration settings via environment variables here (see https://github.com/mxschmitt/golang-url-shortener/wiki/Configuration)
+  # define any configuration settings via environment variables here
+  # (see https://github.com/acacio/url-shortener/wiki/Configuration)
   env:
    GUS_BASE_URL: "https://gourl.mydomain.com"
    GUS_BACKEND: redis

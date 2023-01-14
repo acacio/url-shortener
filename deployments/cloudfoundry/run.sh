@@ -16,6 +16,6 @@ if [ "$REDIS" != "" ]; then
     export GUS_REDIS_SHARED_KEY=$GUS_REDIS_PASSWORD
 fi
 
-echo "#### Starting golang-url-shortener..."
+echo "#### Starting url-shortener..."
 
-./golang-url-shortener 
+./url-shortener 

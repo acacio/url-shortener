@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/boltdb/bolt"
-	"github.com/mxschmitt/golang-url-shortener/internal/stores/shared"
+	"github.com/etcd-io/bbolt"
+	"github.com/acacio/url-shortener/internal/stores/shared"
 	"github.com/pkg/errors"
 )
 

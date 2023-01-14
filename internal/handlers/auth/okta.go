@@ -6,7 +6,7 @@ import (
         "net/url"
         "strings"
 
-        "github.com/mxschmitt/golang-url-shortener/internal/util"
+        "github.com/acacio/url-shortener/internal/util"
         "github.com/sirupsen/logrus"
 
         "github.com/pkg/errors"

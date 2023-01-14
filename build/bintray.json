@@ -1,8 +1,8 @@
 {
     "package": {
         "name": "travis-ci",
-        "repo": "golang-url-shortener",
-        "subject": "mxschmitt"
+        "repo": "url-shortener",
+        "subject": "acacio"
     },
     "version": {
         "name": "0.1"
